@@ -20,33 +20,8 @@ Proyek ini hanya membutuhkan Python standar.
 
 Kloning Repositori:
 
-git clone 
-cd 
-
+git clone https://github.com/KenshinIO/project-automation-utility.git
 
 Jalankan Skrip:
 
 python automation_tool.py
-
-
-🏗️ Struktur Proyek
-
-Berkas
-
-Deskripsi
-
-automation_tool.py
-
-Berkas Python utama berisi kelas FileManager dan TaskScheduler.
-
-README.md
-
-Dokumen ini.
-
-proyek_logs/
-
-(Dibuat saat dijalankan) Direktori untuk berkas log.
-
-proyek_cache/
-
-(Dibuat saat dijalankan) Direktori untuk berkas sementara/cache.
