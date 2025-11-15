@@ -20,8 +20,8 @@ Proyek ini hanya membutuhkan Python standar.
 
 Kloning Repositori:
 
-git clone [URL-REPOSITORI-ANDA]
-cd [NAMA-FOLDER-REPOSITORI]
+git clone 
+cd 
 
 
 Jalankan Skrip:
